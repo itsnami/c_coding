@@ -20,5 +20,5 @@ int main(){
     printf("enter verb(ending with - ing): ");
 
     return 0;
-
+    
 }
